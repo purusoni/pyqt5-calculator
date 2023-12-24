@@ -1,6 +1,4 @@
 # PyQt5 Calculator
-Author: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu)*
-***
 A simple calculator built using PyQt5, providing both basic arithmetic operations and trigonometric functions.
 
 ![Calculator Screenshot](path_to_screenshot.png)  <!-- If you have a screenshot, place it in the repo and replace the path here -->
@@ -12,24 +10,22 @@ A simple calculator built using PyQt5, providing both basic arithmetic operation
 - Responsive and sleek design
 
 ## Dependencies:
-- Python 3.x
+- Python 3
 - PyQt5
-- math (from Python's standard library)
 
 ## Setup:
-1. Clone the repository:
+1. Ensure you have PyQt5 installed or install it by running:
+```bash
+pip install PyQt5
+```
+2. Clone the repository:
 ```bash
 git clone https://github.com/your_github_username/repository_name.git
 ```
     
-2. Navigate to the directory:
+3. Navigate to the directory:
 ```bash
 cd pyqt5-calculator
-```
-
-3. Ensure you have PyQt5 installed or install it by running:
-```bash
-pip install PyQt5
 ```
 
 4. Run the calculator:
